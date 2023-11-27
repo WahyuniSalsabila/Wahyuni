@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 0
+  m_GuidHigh: 0
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5320127714290147019
+      m_GuidHigh: 8716776872900440476
+    m_SerializedTextureGuid:
+      m_GuidLow: 6414395213157492292
+      m_GuidHigh: 11242489342202477144
+    m_Size: {x: 0.062, y: 0.08567637}
+    m_SpecifySize: 1
+    m_Name: barhouse
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5577713457270263828
+      m_GuidHigh: 2052807467773094801
+    m_SerializedTextureGuid:
+      m_GuidLow: 13647175638473455648
+      m_GuidHigh: 4735208668434928792
+    m_Size: {x: 0.062, y: 0.08567637}
+    m_SpecifySize: 1
+    m_Name: fruitshop
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5237279454383784126
+      m_GuidHigh: 1071966059793242283
+    m_SerializedTextureGuid:
+      m_GuidLow: 14417284141481097961
+      m_GuidHigh: 5032641256326157723
+    m_Size: {x: 0.062, y: 0.08567637}
+    m_SpecifySize: 1
+    m_Name: orangehouse
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5355349518541289913
+      m_GuidHigh: 3014493571348162177
+    m_SerializedTextureGuid:
+      m_GuidLow: 7107824074731259957
+      m_GuidHigh: 149576459232537771
+    m_Size: {x: 0.062, y: 0.08567637}
+    m_SpecifySize: 1
+    m_Name: redhouse
+    m_Texture: {fileID: 0}
